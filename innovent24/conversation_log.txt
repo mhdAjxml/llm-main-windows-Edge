@@ -1,0 +1,17 @@
+Conversation Start Time: 2025-01-08 12:11:27
+ajmal: Hello
+Bot: Hello! Nice to meet you. How can I assist you today?
+ajmal: i have seen a warning light in my car during driving it shows an exclamation mark and i dont know what to do and i dont have any tools and to travel 100km help me
+Bot: Hi there! Sorry to hear that you're experiencing some issues with your car.
+
+The exclamation mark warning light is usually indicative of a minor issue, but it's always best to get it checked out as soon as possible. Since you don't have any tools and need to travel 100km, I'd recommend finding the nearest service station or a reliable mechanic in that area.
+
+Can you tell me more about your car? What make and model is it? Have you recently filled up with gas or done any recent maintenance?
+
+In the meantime, here are some general steps you can take:
+
+1. Turn off the engine and consult your owner's manual to see if it provides any guidance on the warning light.
+2. Look for a symbol or message on the dashboard that might give you more information about what's causing the issue.
+3. If you're unable to find anything, try checking the parking brake (if you have one) or the gas cap to ensure they're not stuck.
+
+Remember, it's always better to err on the side of caution when it comes to car issues!
